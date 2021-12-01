@@ -1,0 +1,8 @@
+Group functions are in built SQL functions that operate on groups of rows and return one value for the entire group.
+Example:
+COUNT(): returns the number of rows in the table that satisfies the condition specified in the WHERE condition. If WHERE cindition isn't specified, the query returns the total number of rows in the table.
+DISTINCT(): Used to select the distinct rows.
+MAX(): Used to get the maximum value from a column.
+MIN(): Used to get the minimum value from a column.
+AVG(): Used to get the average value for a numeric column.
+SUM(): Used to get the sum of a numeric column.
